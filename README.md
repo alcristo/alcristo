@@ -108,8 +108,8 @@ I'm particularly interested in exploring:
 I'm always interested in exchanging knowledge, discussing technical topics, and connecting with people who enjoy learning and building things.
 
 - **GitHub:** [github.com/alcristo](github.com/alcristo)
+- **LinkedIn:** [www.linkedin.com/in/álvaro-cristóbal-509040449](www.linkedin.com/in/álvaro-cristóbal-509040449)
 - **Email:** alcristo@student.42madrid.com
-<!-- - **LinkedIn:** \[Your LinkedIn Profile\]-->
 
 ---
 
